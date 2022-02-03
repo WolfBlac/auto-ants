@@ -1,0 +1,20 @@
+
+BasedOnStyle: WebKit
+
+AlignAfterOpenBracket: AlwaysBreak
+AlignEscapedNewlines: DontAlign
+AllowAllArgumentsOnNextLine: false
+# AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortLambdasOnASingleLine: Empty
+AlwaysBreakTemplateDeclarations: Yes
+BinPackArguments: false
+BinPackParameters: false
+ColumnLimit: 100
+FixNamespaceComments: true
+IndentWidth: 4
+Language: Cpp
+NamespaceIndentation: None
+SpacesInAngles: true
+SpacesInParentheses: true
+TabWidth: 4
+UseTab: Never
