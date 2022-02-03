@@ -13,6 +13,14 @@
             "terminal": "console",
             "internalConsoleOptions": "openOnSessionStart",
             "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "ants-debug",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+            // "sudo": true
         }
     ]
 }

@@ -1,0 +1,9 @@
+pyautogui
+pillow
+coloredlogs
+scapy
+matplotlib
+pyx
+libpcap
+numpy
+protobuf

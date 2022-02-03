@@ -1,0 +1,12 @@
+# macOS specific
+.DS_Store
+
+# compile cache
+__pycache__
+
+# temp folders
+map/*.png
+pcap/*.pcap
+
+# IDE
+.vscode/
