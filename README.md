@@ -3,6 +3,12 @@
 
 ## macOS installation
 
+```bash
+brew tap zeek/zeek
+brew install boost spicy
 ```
-brew install boost protobuf
+
+```bash
+spicy-precompile-headers
+# ?
 ```

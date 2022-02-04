@@ -7,8 +7,7 @@ add_executable(autoantspp ${SOURCES})
 
 target_link_libraries(autoantspp
   PRIVATE
-    # messages
-    cppcodec
+    ${SPICY}
     libtins
     Boost::boost)
 

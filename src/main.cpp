@@ -2,7 +2,7 @@
 #include <tins/tcp_ip/stream_follower.h>
 #include <tins/tins.h>
 
-// #include <cppcodec/
+#include <spicy/rt/libspicy.h>
 
 #include <codecvt>
 #include <iostream>
